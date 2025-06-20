@@ -46,7 +46,7 @@ Soy un ingeniero especializado en diseño e implementación de soluciones de dat
 
 ### 📫 ¿Cómo contactarme?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-usuario-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rhidalgoca/)  
 📧 renzo_hc@outlook.com
 
 ---
