@@ -1,6 +1,6 @@
 # 👋 Hola, soy Renzo Hidalgo Castillo
 
-**Data Engineer | Cloud Data Architect | Big Data Enthusiast**  
+**Data Engineer | Machine Learning Engineer | Cloud Data Architect | Big Data Enthusiast**  
 📍 Lima, Perú
 
 ---
@@ -41,6 +41,9 @@ Soy un ingeniero especializado en diseño e implementación de soluciones de dat
 
 - [OpenSky Flight Tracker](https://github.com/HCRenzo/opensky)  
   *Proyecto de portafolio: seguimiento de vuelos en tiempo real usando Databricks*
+
+- [Nexpresso](https://github.com/HCRenzo/nexpresso)  
+  *Nuevo proyecto: Nexpresso — ver repositorio*
 
 ---
 
