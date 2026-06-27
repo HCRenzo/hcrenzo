@@ -1,6 +1,6 @@
 # 👋 Hola, soy Renzo Hidalgo Castillo
 
-**Data Engineer | Machine Learning Engineer | Cloud Data Architect **  
+**Data Engineer | Machine Learning Engineer | Cloud Data Architect**  
 📍 Lima, Perú
 
 ---
