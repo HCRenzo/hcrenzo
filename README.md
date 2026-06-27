@@ -1,13 +1,13 @@
 # 👋 Hola, soy Renzo Hidalgo Castillo
 
-**Data Engineer | Machine Learning Engineer | Cloud Data Architect | Big Data Enthusiast**  
+**Data Engineer | Machine Learning Engineer | Cloud Data Architect **  
 📍 Lima, Perú
 
 ---
 
 ### 🚀 Sobre mí
 
-Soy un ingeniero especializado en diseño e implementación de soluciones de datos en la nube, con experiencia en:
+Soy Ingeniero de sistemas especializado en diseño e implementación de soluciones de datos en la nube, con experiencia en:
 
 - Arquitectura de pipelines ETL/ELT en AWS, GCP y Azure
 - Ingesta y procesamiento de datos a gran escala (Apache Spark, Databricks, DataFlow)
@@ -21,7 +21,7 @@ Soy un ingeniero especializado en diseño e implementación de soluciones de dat
 ### 🛠️ Tecnologías y herramientas
 
 **Lenguajes:**  
-`Python` | `SQL` | `Scala` | `Shell scripting`
+`Python` | `SQL` | `Shell scripting`
 
 **Cloud & Big Data:**  
 `AWS (Redshift, Glue, Lambda, S3)` | `GCP (BigQuery, DataFlow, Dataproc)` | `Azure (ADLS, ADF, Synapse)` | `Databricks`
@@ -33,7 +33,7 @@ Soy un ingeniero especializado en diseño e implementación de soluciones de dat
 `Airflow` | `Cloud Composer` | `Azure Data Factory`
 
 **Visualización:**  
-`Looker / LookML` | `Power BI` | `Amazon QuickSight` | `Superset` | `Tableau`
+`Data Studio / LookML` | `Power BI` | `Amazon QuickSight` | `Superset` | `Tableau`
 
 ---
 
@@ -42,7 +42,7 @@ Soy un ingeniero especializado en diseño e implementación de soluciones de dat
 - [OpenSky Flight Tracker](https://github.com/HCRenzo/opensky)  
   *Proyecto de portafolio: seguimiento de vuelos en tiempo real usando Databricks*
 
-- [Nexpresso](https://github.com/HCRenzo/nexpresso)  
+- [Nexpresso](https://nexpresso.studio/)  
   *Nuevo proyecto: Nexpresso — ver repositorio*
 
 ---
