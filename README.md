@@ -43,7 +43,7 @@ Soy Ingeniero de sistemas especializado en diseño e implementación de solucion
   *Proyecto de portafolio: seguimiento de vuelos en tiempo real usando Databricks*
 
 - [Nexpresso](https://nexpresso.studio/)  
-  *Nuevo proyecto: Nexpresso — ver repositorio*
+  *Nuevo proyecto: Nexpresso*
 
 ---
 
